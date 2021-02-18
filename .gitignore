@@ -1,5 +1,6 @@
 /.idea
 /css
 /node_modules
+/template
 package.json
 tailwind.config.js
